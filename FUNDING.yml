@@ -1,0 +1,8 @@
+# GitHub Sponsors funding configuration for senih25
+# This enables the Sponsor button across repositories that inherit community health files.
+
+github: [senih25]
+custom:
+  - https://github.com/sponsors/senih25
+  - https://pbtguard.tech
+  - https://www.f6s.com/software/pbt-g
